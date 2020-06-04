@@ -1,7 +1,7 @@
 class Shgen < Formula
     desc "Parse ini file in CMake"
-    url "https://github.com/jonasohland/shgen/tarball/0.0.1"
-    sha256 "bff600ca67aa345305bccb7b2c3a56db91d8f3c1b98fe2a1511765ec2250ceb8"
+    url "https://github.com/jonasohland/shgen/tarball/0.0.3"
+    sha256 "d944e089576528990d34f54c04fdda536263e2fbad5e2f732bca3ce1c33fde79"
 
     depends_on "cmake"
 
