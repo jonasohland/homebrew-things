@@ -1,7 +1,7 @@
 class Mxx < Formula
     desc "Parse ini file in CMake"
-    url "https://github.com/jonasohland/mxx/tarball/ca29f1e31643fd7dbd7d4102676d0b9738767943"
-    sha256 "f61c7eda2129110547038ec3e182b8692912b3fec53a53329a0be07aacb28057"
+    url "https://github.com/jonasohland/mxx/tarball/967ae77df702724c04edb1f402fd6087d44cb5d4"
+    sha256 "8eb227e2add409159431afe4384470d70996368cdeb496d574ed2836c8af154f"
 
     depends_on "cmake"
     depends_on "make"
